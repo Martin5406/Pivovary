@@ -1,5 +1,2 @@
 # Pivovary
-## Martin Brož
-## Adam Křovina
-## Dominik Urban
-## Filip Kříž
+## Martin Brož, Adan Křovina, Dominik Urban, Filip Kříž
